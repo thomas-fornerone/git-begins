@@ -6,7 +6,7 @@ git add "Nom_du_fichier"
 git commit -m "Commentaires" "Nom_du_fichier"
 git push -u origin main
 
-git pull
+Pour pull : git pull
 
-git branch "Nom de la branche"
-git checkout "Changer de branche"
+Créer une branche : git branch "Nom de la branche"
+Switcher de branche : git checkout "Changer de branche"
