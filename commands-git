@@ -7,3 +7,6 @@ git commit -m "Commentaires" "Nom_du_fichier"
 git push -u origin main
 
 git pull
+
+git branch "Nom de la branche"
+git checkout "Changer de branche"
